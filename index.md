@@ -26,7 +26,7 @@ __Analyst Programmer__
 - Application support.
 - Develop new reporting services. 
 - Develop new Customer Loan call service (Twilio) with #.  
-Design Patterns for new projects: Adapter, Factory, Builder, Dependcy Injection, Observer, Iterator.  
+Design Patterns for new projects: Adapter, Factory, Builder, Dependency Injection, Observer, Iterator.  
   
 
 ### Raspect Intelligence Ltd  
