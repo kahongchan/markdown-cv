@@ -162,7 +162,7 @@ code {
     font-size: 60%;
     /*line-height: 1em;*/
     font-family: Menlo, monospace, sans-serif;
-    color: rgb(120, 120, 120);
+    color: rgb(80, 80, 80);
 }
 
 p code {
@@ -235,7 +235,7 @@ h2 {
 }
 
 h3 {
-    font-size: 0.9em;
+    font-size: 1.0em;
     line-height: 2em;
     color: rgb(170, 170, 170);
     position: relative;
@@ -246,7 +246,7 @@ h3 {
 
 a {
     color: inherit;
-    text-decoration: none
+    /* text-decoration: none */
 }
 
 a:hover {
