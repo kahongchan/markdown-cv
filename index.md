@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Billy Chan's CV
 ---
 # Billy Chan 
 ### Software Engineer
