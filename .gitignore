@@ -1,2 +1,5 @@
 _site/
+_docx/
+_docx/*
 .sass-cache/
+.jekyll-cache/*

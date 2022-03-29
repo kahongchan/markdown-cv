@@ -3,6 +3,18 @@
 A curriculum vitae maintained in plain text and rendered to HTML and PDF using CSS.
 
 For more details, see the [project page](http://elipapa.github.io/markdown-cv), or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
+***  
+
+## Convert to .docx file
+with css:  
+```pandoc http://127.0.0.1:4000/ -c http://127.0.0.1:4000/media/billy-print.css -o test.docx```  
+  
+with docx reference:  
+```pandoc http://127.0.0.1:4000/ --reference-doc _docx/template.docx -o _docx/test.docx```  
+  
+without css:  
+```pandoc http://127.0.0.1:4000/ -o test.docx```  
+***Please make sure the package *'librsvg'* have installed if you want to export image files inside the document***
 
 ***
 
