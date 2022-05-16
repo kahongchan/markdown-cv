@@ -1,4 +1,5 @@
 # Notes from Billy 
+***
 ## Editing on Apple Silicon 
 `jekyll serve` may not work on M1 macbook. May need to do it on other platform or use other method instead.    
 
